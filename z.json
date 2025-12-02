@@ -2282,18 +2282,6 @@
     ]
   },
   {
-    "id": 253,
-    "name": "Chat Bot (A.|.I)",
-    "cover": "{COVER_URL}/253.png",
-    "url": "{HTML_URL}/253.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "featured": true,
-    "special": [
-      "tools"
-    ]
-  },
-  {
     "id": 255,
     "name": "Crazy Chicken 3D",
     "cover": "{COVER_URL}/255.png",
@@ -3777,17 +3765,6 @@
     ]
   },
   {
-    "id": 429,
-    "name": "Code Editor",
-    "cover": "{COVER_URL}/429.png",
-    "url": "{HTML_URL}/429.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "special": [
-      "tools"
-    ]
-  },
-  {
     "id": 430,
     "name": "10 Minutes Till Dawn",
     "cover": "{COVER_URL}/430.png",
@@ -5253,18 +5230,6 @@
     "url": "{HTML_URL}/595.html",
     "author": "scriptwelder",
     "authorLink": "https://scriptwelder.itch.io/waterworks" 
-  },
-  {
-    "id": 596,
-    "name": "[!] COMMENTS",
-    "cover": "{COVER_URL}/596-uu.png",
-    "url": "{HTML_URL}/596-u.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "featured": true,
-    "special": [
-      "tools"
-    ]
   },
   {
     "id": 597,
